@@ -8,3 +8,4 @@ Windows: edit $home/.time-limit-config.ini
 Uninstall:
 Debian: sudo apt remove time-limit.
 Windows: Uninstall Time limit in Windows Settings.
+Test
